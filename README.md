@@ -12,5 +12,5 @@
 - 🛠 Herramientas: Git, Docker, VS Code
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/yancy-alfaro/)
+- [LinkedIn](https://www.linkedin.com/in/yancy-alfaro-5809b7303/)
 - [Correo](mailto:alfaroyancy0@gmail.com)
